@@ -1,1 +1,1 @@
-Welcome to BITS Server -Feature1
+Welcome to Bits Server - Feature 1 & Feature 2

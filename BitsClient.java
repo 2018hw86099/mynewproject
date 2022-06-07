@@ -1,1 +1,1 @@
-Welcome to BITS Client -Feature1
+Welcome to Bits Client - Feature 1 & Feature 2
